@@ -1,4 +1,11 @@
-Decreases respawn time.
+Decreases respawn time. Similar to several other mods, but with a particularly short timer.
 
-v1.0.0
--initial upload
+===v1.0.1===
+
+* icon
+* Github integration
+* tModLoader v0.10.1.4
+
+===v1.0.0===
+
+* initial upload

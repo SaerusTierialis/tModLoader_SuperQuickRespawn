@@ -1,0 +1,4 @@
+Decreases respawn time.
+
+v1.0.0
+-initial upload
